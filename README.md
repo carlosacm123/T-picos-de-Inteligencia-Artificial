@@ -1,1 +1,2 @@
 # Tarea1_TIA
+En este repositorio se encuentra una investigación realizada sobre la inteligencia artificial y como esta influye en distintos ambitos de nuestras vidas en la actualidad, ya que como se verá en el documento estamos en constante interacción con dispositivos como asistentes personales que se nutren en gran medida de la aplicación de la inteligencia artificial, y mientras interactuamos más con ellos estos se vuelven mejores para resolver diversos problemas del día a día. 
